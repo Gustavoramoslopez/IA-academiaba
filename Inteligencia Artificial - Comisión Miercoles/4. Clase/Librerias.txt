@@ -1,0 +1,3 @@
+conda install ploty
+pip3 install pandas_profiling // conda install pandas_profiling // pip install pandas_profiling
+pip install funPyModeling
