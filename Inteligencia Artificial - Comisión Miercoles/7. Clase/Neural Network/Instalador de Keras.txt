@@ -1,0 +1,4 @@
+En el prompt ejecutamos las siguientes instrucciones:
+
+pip3 install keras
+pip install tensorflow
